@@ -2,126 +2,147 @@
   {
     "id": 1,
     "category": 1,
+    "category_name": "Collection Video",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA1.jpeg",
-    "description": "Video"
+    "description": "IN SITU– Collection Intro.mp4"
   },
   {
     "id": 2,
     "category": 2,
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA2.jpeg",
+    "category_name": "Lookbook",
+    "source": "https:/eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA2.jpeg",
     "description": "Image2-1"
   },
   {
     "id": 3,
     "category": 2,
+    "category_name": "Lookbook",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA3.jpeg",
     "description": "Image2-2"
   },
   {
     "id": 4,
     "category": 2,
+    "category_name": "Final Toiles",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA4.jpeg",
     "description": "Image2-3"
   },
   {
     "id": 5,
     "category": 2,
+    "category_name": "Final Toiles",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA5.jpeg",
     "description": "Image2-4"
   },
   {
     "id": 6,
     "category": 2,
+    "category_name": "Final Sketches",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA6.jpeg",
     "description": "Image2-5"
   },
   {
     "id": 7,
     "category": 2,
+    "category_name": "Final Sketches",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA7.jpeg",
     "description": "Image2-6"
   },
   {
     "id": 8,
     "category": 3,
+    "category_name": "Commodities",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA8.jpeg",
     "description": "Image3-1"
   },
    {
     "id": 9,
     "category": 3,
+    "category_name": "Integrated Functions",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA9.jpeg",
     "description": "Image3-2"
   },
   {
     "id": 10,
     "category": 3,
+    "category_name": "Familiarity",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA10.jpeg",
     "description": "Image3-3"
   },
    {
     "id": 11,
     "category": 3,
+    "category_name": "Commodities",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA11.jpeg",
     "description": "Image3-4"
   },
   {
     "id": 12,
     "category": 3,
+    "category_name": "Integrated Functions",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA12.jpeg",
     "description": "Image3-5"
   },
    {
     "id": 13,
     "category": 3,
+    "category_name": "Familiarity",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA13.jpeg",
     "description": "Image3-6"
   },
   {
     "id": 14,
     "category": 4,
+    "category_name": "Familiarity",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA14.jpeg",
     "description": "Image4-1"
   },
   {
     "id": 15,
     "category": 4,
+    "category_name": "Commodities",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA15.jpeg",
     "description": "Image4-2"
   },
   {
     "id": 16,
     "category": 4,
+    "category_name": "Integrated Functions",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA16.jpeg",
     "description": "Image4-3"
   },
    {
     "id": 17,
     "category": 4,
+    "category_name": "Time",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA17.jpeg",
     "description": "Image4-4"
   },
   {
     "id": 18,
     "category": 4,
+    "category_name": "Familiarity",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA18.jpeg",
     "description": "Image4-5"
   },
    {
     "id": 19,
     "category": 4,
+    "category_name": "Commodities",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA19.jpeg",
     "description": "Image4-6"
   },
   {
     "id": 20,
     "category": 4,
+    "category_name": "Integrated Functions",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA20.jpeg",
     "description": "Image4-7"
   },
    {
     "id": 21,
     "category": 4,
+    "category_name": "Time",
     "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA21.jpeg",
     "description": "Image4-8"
   }

@@ -1,21 +1,21 @@
 
 // nav bar number button 1
-const num_1_btn = document.getElementById('nav_num_1');
+let num_1_btn = document.getElementById('nav_num_1');
 num_1_btn.addEventListener('click', initiate, false);
 num_1_btn.parameter = '1';
 
 // nav bar number button 2
-const num_2_btn = document.getElementById('nav_num_2');
+let num_2_btn = document.getElementById('nav_num_2');
 num_2_btn.addEventListener('click', initiate, false);
 num_2_btn.parameter = '2';
 
 // nav bar number button 3
-const num_3_btn = document.getElementById('nav_num_3');
+let num_3_btn = document.getElementById('nav_num_3');
 num_3_btn.addEventListener('click', initiate, false);
 num_3_btn.parameter = '3';
 
 // nav bar number button 4
-const num_4_btn = document.getElementById('nav_num_4');
+let num_4_btn = document.getElementById('nav_num_4');
 num_4_btn.addEventListener('click', initiate, false);
 num_4_btn.parameter = '4';
 
@@ -49,9 +49,13 @@ function closeBtn(){
 }
 
 function makeImgCont(){
+
+	var get = document.getElementById('imageContainer');
+	if(Boolean(get)){ get.remove();}
 	var createCont = document.createElement('div');
 	createCont.setAttribute('id', 'imageContainer');
 	document.body.appendChild(createCont);
+	
 }
 
 window.addEventListener("resize", setColumn);
@@ -115,8 +119,8 @@ function populate(number){
 	for(var i=0; i<21; i+=1){
 		var image = document.createElement('img');
 		image.setAttribute('src', `assets/image/${number}/test_c${number}_${i}.${format}`);
-		image.setAttribute('id', 'image'+i);
-		image.setAttribute('class', 'images');
+		// image.setAttribute('id', 'image'+i);
+		image.setAttribute('class', 'popImages');
 		document.getElementById('box'+i).appendChild(image);	
 	}
 }
