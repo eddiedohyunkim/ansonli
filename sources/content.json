@@ -3,147 +3,147 @@
     "id": 1,
     "category": 1,
     "category_name": "Collection Video",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA1.jpeg",
-    "description": "IN SITU– Collection Intro.mp4"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/1_Collection_Video/thumbnail_2.png",
+    "description": "In-Situ-_Collection_Intro.mp4"
   },
   {
     "id": 2,
     "category": 2,
-    "category_name": "Lookbook",
-    "source": "https:/eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA2.jpeg",
-    "description": "Image2-1"
+    "category_name": "Campaign",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-28-22-at-3-00-AM.jpg",
+    "description": "Image-4-28-22-at-3-00-AM.jpg"
   },
   {
     "id": 3,
     "category": 2,
     "category_name": "Lookbook",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA3.jpeg",
-    "description": "Image2-2"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_16.jpg",
+    "description": "In-Situ-_Lookbook_Page_16.jpg"
   },
   {
     "id": 4,
     "category": 2,
-    "category_name": "Final Toiles",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA4.jpeg",
-    "description": "Image2-3"
+    "category_name": "Campaign",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-30-22-at-11-37-AM.jpg",
+    "description": "Image-4-30-22-at-11-37-AM.jpg"
   },
   {
     "id": 5,
     "category": 2,
-    "category_name": "Final Toiles",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA5.jpeg",
-    "description": "Image2-4"
+    "category_name": "Lookbook",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_01.jpg",
+    "description": "In-Situ-_Lookbook_Page_01.jpg"
   },
   {
     "id": 6,
     "category": 2,
-    "category_name": "Final Sketches",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA6.jpeg",
-    "description": "Image2-5"
+    "category_name": "Final Toiles",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2b_Final_Toiles/(C)-EVA-Foam-Suit-Jacket-(Side).png",
+    "description": "EVA-Foam-Suit-Jacket-(Side).png"
   },
   {
     "id": 7,
     "category": 2,
     "category_name": "Final Sketches",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA7.jpeg",
-    "description": "Image2-6"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2a_Final_Sketches/(C)-Scan-5.jpeg",
+    "description": "(C)-Scan-5.jpeg"
   },
   {
     "id": 8,
     "category": 3,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA8.jpeg",
-    "description": "Image3-1"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3c_Commodities/(C)IMG_6775.jpg",
+    "description": "IMG_6775.jpg"
   },
    {
     "id": 9,
     "category": 3,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA9.jpeg",
-    "description": "Image3-2"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Foam-Suit-jacket-Prototype-Front-Foam-Inserts(1).jpeg",
+    "description": "Foam-Suit-jacket-Prototype-Front-Foam-Inserts(1).jpeg"
   },
   {
     "id": 10,
     "category": 3,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA10.jpeg",
-    "description": "Image3-3"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration.JPG",
+    "description": "EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration.JPG"
   },
    {
     "id": 11,
     "category": 3,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA11.jpeg",
-    "description": "Image3-4"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3c_Commodities/(C)Pellon-76-Flex-Foam-Naked-No-Tricot.JPG",
+    "description": "Pellon-76-Flex-Foam-Naked-No-Tricot.JPG"
   },
   {
     "id": 12,
     "category": 3,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA12.jpeg",
-    "description": "Image3-5"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Molded-Waistband-Mold-Negative(1)-3D-Print-Front.JPG",
+    "description": "Molded-Waistband-Mold-Negative(1)-3D-Print-Front.JPG"
   },
    {
     "id": 13,
     "category": 3,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA13.jpeg",
-    "description": "Image3-6"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)Darted-Lining-Construction-Exploration-Front.JPG",
+    "description": "Darted-Lining-Construction-Exploration-Front.JPG"
   },
   {
     "id": 14,
     "category": 4,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA14.jpeg",
-    "description": "Image4-1"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4d_Familiarity/(C)People-of-the-Twenty-First-Century-Hans-Eijkelboom.jpeg",
+    "description": "People-of-the-Twenty-First-Century-Hans-Eijkelboom.jpeg"
   },
   {
     "id": 15,
     "category": 4,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA15.jpeg",
-    "description": "Image4-2"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4c_Commodities/(C)BookScanCenter_4.jpg",
+    "description": "BookScanCenter_4.jpg"
   },
   {
     "id": 16,
     "category": 4,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA16.jpeg",
-    "description": "Image4-3"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4b_Integrated_Functions/(C)BookScanCenter_16.jpg",
+    "description": "BookScanCenter_16.jpg"
   },
    {
     "id": 17,
     "category": 4,
     "category_name": "Time",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA17.jpeg",
-    "description": "Image4-4"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4a_Time/(C)original_c75f2fcf4db6b3c1d0809385cdd233e8.jpg",
+    "description": "original_c75f2fcf4db6b3c1d0809385cdd233e8.jpg"
   },
   {
     "id": 18,
     "category": 4,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA18.jpeg",
-    "description": "Image4-5"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4d_Familiarity/(C)-Man-1.jpeg",
+    "description": "Man-1.jpeg"
   },
    {
     "id": 19,
     "category": 4,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA19.jpeg",
-    "description": "Image4-6"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4c_Commodities/(C)BookScanCenter_3.jpg",
+    "description": "BookScanCenter_3.jpg"
   },
   {
     "id": 20,
     "category": 4,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA20.jpeg",
-    "description": "Image4-7"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4b_Integrated_Functions/(C)aa358eaf7c7d2ca804eda3821fbb53e6-IMAGES1077515d56abb1d0a.jpeg",
+    "description": "aa358eaf7c7d2ca804eda3821fbb53e6-IMAGES1077515d56abb1d0a.jpeg"
   },
    {
     "id": 21,
     "category": 4,
     "category_name": "Time",
-    "source": "https://eddiedohyunkim.github.io/shayneoliver/assets/image/hba/HBA21.jpeg",
-    "description": "Image4-8"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4a_Time/(C)branquinho-3.jpg",
+    "description": "branquinho-3.jpg"
   }
 ]
