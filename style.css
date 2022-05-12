@@ -1,0 +1,231 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+
+html, body {
+	height: 100%;
+}
+body {
+	background-color: #000000;
+	margin: 0;
+	font-family: Helvetica Neue, Helvetica, sans-serif;
+	color: white;
+}
+#menu {
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+.all {
+	width: 200px;
+	cursor: default;
+}
+.all:hover {
+	box-shadow: 0px 0px 12px #ffffffbb;
+	border: 1px solid #ffffff;
+}
+.images{
+	width: 100%;
+	opacity: 0.85;
+}
+
+
+
+
+#nav_cont{
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	width: 100%;
+	font-size: 1em;
+	/*mix-blend-mode: difference;*/
+}
+#nav{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+	grid-template-rows: 1fr;
+	margin-top: 20px;
+	margin-left: 5vw;
+	margin-right: 5vw;
+		visibility: hidden;
+}
+.nav_children{
+	width: -moz-fit-content;
+	width: fit-content;
+	cursor: default;
+		visibility: visible;
+		/*background-color: red;*/
+}
+.nav_children_hover:hover{
+	color: #777777;
+}
+
+#nav_title_cont{
+	grid-column: 1/3;
+	grid-row: 1/2;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 20px 60px;
+	background-color: red;
+}
+#nav_title{
+	grid-column: 1/2;
+	grid-row: 1/2;
+}
+#nav_num_cont{
+	grid-column: 1/2;
+	grid-row: 2/3;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3,20px);
+	background-color: green;
+}
+#nav_num{	
+	grid-column: 1/2;
+	grid-row: 1/2;
+	display: grid;
+	grid-template-columns: 20px 30px 30px 30px 30px;
+	padding-left: 20px;
+	background-color: blue;
+}
+#info_cont{
+	grid-column: 1/2;
+	grid-row: 2/3;
+	width: fit-content;
+	padding-left: 40px;
+	background-color: purple;
+}
+#info_cont_sub{
+	grid-column: 1/2;
+	grid-row: 3/4;
+	width: fit-content;
+	padding-left: 60px;
+	background-color: orange;
+}
+#info_1, #info_1_sub{margin-left: 0px;}
+#info_2, #info_2_sub{margin-left: 30px;}
+#info_3, #info_3_sub{margin-left: 60px;}
+#info_4, #info_4_sub{margin-left: 90px;}
+
+
+
+
+#nav_config_cont{
+	grid-column: 3/4;
+	display: grid;
+	justify-self: center;
+}
+#nav_config{
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	/*grid-template-rows: 1fr;*/
+}
+#nav_func_cont{
+	grid-column: 5/6;
+	display: grid;
+	justify-self: end;
+}
+#nav_func{
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+}
+#nav_config, #nav_func{
+	column-gap: 5px;
+}
+.nav_func_children_cont{
+	justify-self: center;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 20px;
+}
+.nav_func_children_cont:hover{
+	opacity: 0.5;
+}
+.nav_func_children{
+	padding: 1px;
+	width: 1em;
+	height: 1em;
+}
+
+
+
+
+#imageContainer{
+	position: absolute;
+	top: 0;
+	/*width:100%;*/
+	height: 100vh;
+	overflow: auto;
+	display:grid;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	grid-auto-rows:auto;
+	column-gap:30px;
+	row-gap:30px;
+}
+
+@media (hover) and (min-width: 300px) {
+	#imageContainer{grid-template-columns: repeat(2,1fr);}
+}
+@media (hover) and (min-width: 600px) {
+	#imageContainer{grid-template-columns: repeat(3,1fr);}
+}
+@media (hover) and (min-width: 900px) {
+	#imageContainer{grid-template-columns: repeat(4,1fr);}
+}
+@media (hover) and (min-width: 1200px) {
+	#imageContainer{grid-template-columns: repeat(5,1fr);}
+}
+#imageContainer::-webkit-scrollbar {
+	width: 0px;
+}
+.boxes{
+	width:100%;
+	height:100%;
+}
+.popImages{
+	width:100%;
+	opacity:100%;
+	box-sizing: border-box;
+}
+.popImages:hover {
+	border: 1px solid #ffffff;
+}
+
+#videoContainer{
+	position: absolute;
+	visibility: hidden;
+	top: 0;
+	width: 100%;
+	height: 100vh;
+	display:grid;
+	overflow: hidden;
+	grid-template-columns: repeat(3,1fr);
+	grid-template-rows: 1fr;
+}
+#videoHolder{
+	visibility: visible;
+	grid-column: 2/3;
+	height: 100vh;
+}
+#video{
+	height: 100%;
+}
