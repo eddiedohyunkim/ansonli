@@ -1,5 +1,5 @@
 let parsed = [];
-const imgUrl = "https://eddiedohyunkim.github.io/ansonli/sources/populate_test.json"
+const imgUrl = "https://eddiedohyunkim.github.io/ansonli/sources/populate.json"
 	fetch(imgUrl)
 	.then(function(response){return response.json();})
 	.then(function(json){parsed=json})

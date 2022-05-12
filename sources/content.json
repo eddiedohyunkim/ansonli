@@ -3,35 +3,35 @@
     "id": 1,
     "category": 1,
     "category_name": "Collection Video",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/1_Collection_Video/thumbnail_2.png",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/1_Collection_Video/thumbnail_2_3d.jpg",
     "description": "In-Situ-_Collection_Intro.mp4"
   },
   {
     "id": 2,
     "category": 2,
     "category_name": "Campaign",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-28-22-at-3-00-AM.jpg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-28-22-at-3-00-AM_3d.jpg",
     "description": "Image-4-28-22-at-3-00-AM.jpg"
   },
   {
     "id": 3,
     "category": 2,
     "category_name": "Lookbook",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_16.jpg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_16_3d.jpg",
     "description": "In-Situ-_Lookbook_Page_16.jpg"
   },
   {
     "id": 4,
     "category": 2,
     "category_name": "Campaign",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-30-22-at-11-37-AM.jpg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2d_Campaign/Image-4-30-22-at-11-37-AM_3d.jpg",
     "description": "Image-4-30-22-at-11-37-AM.jpg"
   },
   {
     "id": 5,
     "category": 2,
     "category_name": "Lookbook",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_01.jpg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/2c_Lookbook/(C)-In-Situ--Lookbook_Page_01_3d.jpg",
     "description": "In-Situ-_Lookbook_Page_01.jpg"
   },
   {
@@ -59,36 +59,36 @@
     "id": 9,
     "category": 3,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Foam-Suit-jacket-Prototype-Front-Foam-Inserts(1).jpeg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Foam-Suit-jacket-Prototype-Front-Foam-Inserts(1)_3d.jpeg",
     "description": "Foam-Suit-jacket-Prototype-Front-Foam-Inserts(1).jpeg"
   },
   {
     "id": 10,
     "category": 3,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration.JPG",
-    "description": "EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration.JPG"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration_3d.jpeg",
+    "description": "EVA-Foam-Interfaced-Suit-Jacket-(4)--Construction-Exploration.jpeg"
   },
    {
     "id": 11,
     "category": 3,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3c_Commodities/(C)Pellon-76-Flex-Foam-Naked-No-Tricot.JPG",
-    "description": "Pellon-76-Flex-Foam-Naked-No-Tricot.JPG"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3c_Commodities/(C)Pellon-76-Flex-Foam-Naked-No-Tricot_3d.jpeg",
+    "description": "Pellon-76-Flex-Foam-Naked-No-Tricot.jpeg"
   },
   {
     "id": 12,
     "category": 3,
     "category_name": "Integrated Functions",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Molded-Waistband-Mold-Negative(1)-3D-Print-Front.JPG",
-    "description": "Molded-Waistband-Mold-Negative(1)-3D-Print-Front.JPG"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3b_Integrated_Functions/(C)-Molded-Waistband-Mold-Negative(1)-3D-Print-Front_3d.jpeg",
+    "description": "Molded-Waistband-Mold-Negative(1)-3D-Print-Front.jpeg"
   },
    {
     "id": 13,
     "category": 3,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)Darted-Lining-Construction-Exploration-Front.JPG",
-    "description": "Darted-Lining-Construction-Exploration-Front.JPG"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/3a_Familiarity/(C)Darted-Lining-Construction-Exploration-Front_3d.jpeg",
+    "description": "Darted-Lining-Construction-Exploration-Front.jpeg"
   },
   {
     "id": 14,
@@ -101,8 +101,8 @@
     "id": 15,
     "category": 4,
     "category_name": "Commodities",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4c_Commodities/(C)BookScanCenter_4.jpg",
-    "description": "BookScanCenter_4.jpg"
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4c_Commodities/(C)BookScanCenter_4_3d.jpeg",
+    "description": "BookScanCenter_4.jpeg"
   },
   {
     "id": 16,
@@ -122,7 +122,7 @@
     "id": 18,
     "category": 4,
     "category_name": "Familiarity",
-    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4d_Familiarity/(C)-Man-1.jpeg",
+    "source": "https://eddiedohyunkim.github.io/ansonli/assets/4d_Familiarity/(C)-Man-1_3d.jpeg",
     "description": "Man-1.jpeg"
   },
    {
