@@ -92,23 +92,4 @@ function populateImg(number){
 		image.setAttribute('class', 'popImages');
 		document.getElementById('box'+i).appendChild(image);
 	}
-
-	// if(number==2){
-	// 	format='jpg';
-	// }else{
-	// 	format='jpeg';
-	// }
-	// for(let i=0; i<21; i+=1){
-	// 	let box = document.createElement('div');
-	// 	box.setAttribute('id', 'box'+i);
-	// 	box.setAttribute('class', 'boxes');
-	// 	document.getElementById('imageContainer').appendChild(box);
-	// }
-	// for(let i=0; i<21; i+=1){
-	// 	let image = document.createElement('img');
-	// 	image.setAttribute('src', `assets/image/${number}/test_c${number}_${i}.${format}`);
-	// 	// image.setAttribute('id', 'image'+i);
-	// 	image.setAttribute('class', 'popImages');
-	// 	document.getElementById('box'+i).appendChild(image);	
-	// }
 }
