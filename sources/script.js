@@ -88,21 +88,23 @@ function build3dElements(json) {
 		});
 	}	
 
-
 }// end of build3dElements()
 
 // random positions for the THREEJS images
 function RandomPositionRotation(e){
+
 	e.position.x = Math.random() * 600 * (Math.round(Math.random()) ? 1 : -1);
 	e.position.y = Math.random() * 600 * (Math.round(Math.random()) ? 1 : -1);
 	e.position.z = Math.random() * 600 * (Math.round(Math.random()) ? 1 : -1);
 	e.rotation.x = Math.random() * 3;
 	e.rotation.y = Math.random() * 3;
 	e.rotation.z = Math.random() * 3;
+
 }// end of RandomPositionRotation()
 
 // pyramid configuration for the THREEJS images
 function pyramidConfig(){
+
 	let xGap = 250;
 	let zGap = 200;
 	let pyramidPosition = [];
@@ -117,32 +119,42 @@ function pyramidConfig(){
 		[0,4] 
 	];
 	for (let i=0; i<objects.length; i+=1) {
+
 		let object = new THREE.Object3D();
 		object.position.x = placement[i][0];
 		object.position.y = 100;
 		object.position.z = placement[i][1]*zGap;
 		pyramidPosition.push( object );
+		
 	}
 	console.log(pyramidPosition)
 	return pyramidPosition
+
 }// end of pyramidConfig()
 
 // disperse configuration for the THREEJS images - using RandomPositionRotation() above
 function disperseConfig(){
+
 	let dispersePosition = [];
 	for (let i=0; i<objects.length; i+=1) {
+
 		let object = new THREE.Object3D();
 		RandomPositionRotation(object);
 		dispersePosition.push(object);
+
 	}
 	return dispersePosition
+
 }// end of disperseConfig()
 
 // THREEJS Function - movement of the THREEJS images
 // this function deals with the camera movement, THREEJS images positioning, timing and easing of the animation
 function transform(targets, cameraDistance){
+
 	TWEEN.removeAll();
+
 	for (let i=0; i<objects.length; i+=1){
+
 		let object = objects[ i ];
 		let target = targets[ i ];
 
@@ -159,7 +171,7 @@ function transform(targets, cameraDistance){
 			.start();
 
 		// THREEJS images rotation(elements rotate when changing configuration - just for the visual purposes)
-		new TWEEN.Tween( object.rotation )
+		new TWEEN.Tween(object.rotation)
 			.to( {x:target.rotation.x, y:target.rotation.y, z:target.rotation.z}, Math.floor(Math.random()*1500)+1000 )
 			.easing(TWEEN.Easing.Exponential.InOut)
 			.start();
@@ -174,20 +186,26 @@ function transform(targets, cameraDistance){
 
 // THREEJS Function - on window resize, update the camera aspect and rendering size of the page. 
 function onWindowResize() {
+
 	camera.aspect = window.innerWidth / window.innerHeight;
 	camera.updateProjectionMatrix();
 	renderer.setSize(window.innerWidth, window.innerHeight);
 	render();
+
 }
 
 // THREEJS Function - animation for the transform() above
 function animate() {
-	requestAnimationFrame( animate );
+
+	requestAnimationFrame(animate);
 	TWEEN.update();
 	controls.update();
+
 }
 
 // THREEJS Function - rendering the THREEJS images and camera
 function render() {
-	renderer.render( scene, camera );
+
+	renderer.render(scene, camera);
+
 }
